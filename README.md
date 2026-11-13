@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00B4FF,50:7B2FF7,100:FF2E93&height=260&section=header&text=MOHAMMED%20BABIKER&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%F0%9F%8E%AE%20Video%20Game%20Developer%20%E2%80%A2%20UAE%20%F0%9F%87%A6%F0%9F%87%AA&descAlignY=62&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00B4FF,50:7B2FF7,100:FF2E93&height=260&section=header&text=MOHAMMED%20BABIKER&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%F0%9F%92%BB%20Software%20Engineer%20%E2%80%A2%20%F0%9F%8E%AE%20Game%20Developer%20%E2%80%A2%20UAE&descAlignY=62&descSize=20" width="100%" />
 
 <a href="https://protofolio-mbabker.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00B4FF&center=true&vCenter=true&random=false&width=700&height=50&lines=Hi%2C+I'm+MrBabker+%F0%9F%91%8B;I+build+games+%F0%9F%8E%AE;I+build+web+apps+%F0%9F%9A%80;Level+up+%E2%80%A2+Ship+%E2%80%A2+Repeat+%F0%9F%94%81" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00B4FF&center=true&vCenter=true&random=false&width=700&height=50&lines=Hi%2C+I'm+MrBabker+%F0%9F%91%8B;Software+Engineer+%F0%9F%92%BB;Game+Developer+%F0%9F%8E%AE;I+build+backends%2C+web+apps+%26+games+%F0%9F%9A%80;Level+up+%E2%80%A2+Ship+%E2%80%A2+Repeat+%F0%9F%94%81" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/PLAYER-MrBabker-00B4FF?style=for-the-badge&logo=gamepad&logoColor=white" />
-<img src="https://img.shields.io/badge/CLASS-Game_Developer-7B2FF7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CLASS-Software_Engineer_%26_Game_Dev-7B2FF7?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LOCATION-UAE-FF2E93?style=for-the-badge" />
 <img src="https://img.shields.io/badge/STATUS-Building_🔥-2ea043?style=for-the-badge" />
 
@@ -29,10 +29,10 @@ public class Developer
 {
     public string Name     = "Mohammed Babiker Alamin Alsunni";
     public string Handle   = "MrBabker";
-    public string Role     = "Video Game Developer";
+    public string[] Roles  = { "Software Engineer", "Video Game Developer" };
     public string Location = "UAE 🇦🇪";
     public string[] Loves  = { "Game dev", "Clean code", "Shipping projects", "Learning new tech" };
-    public string Quest    = "Build games people love to play 🎮";
+    public string Quest    = "Build software and games people love 🚀";
 }
 ```
 
