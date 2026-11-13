@@ -67,13 +67,64 @@ public class Developer
 
 ## 🚀 Featured Quests
 
-| Project | Stack | What it is |
-|---|---|---|
-| [🎮 Game Portfolio](https://github.com/MrBabker/-Mbabker-Game-portfolio) | ![TS](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) | My video game portfolio site |
-| [📄 Mbabker_CV](https://github.com/MrBabker/Mbabker_CV) | ![TS](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) | My interactive CV |
-| [🕹️ gameDot_net](https://github.com/MrBabker/gameDot_net) | ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white) | Game project |
-| [🎲 NizalGame](https://github.com/MrBabker/NizalGame) | ![Game](https://img.shields.io/badge/Game-7B2FF7) | Game project |
-| [🛵 Tawseel-Nest](https://github.com/MrBabker/Tawseel-Nest-) | ![TS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) | Delivery backend |
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <br/>
+      <h3>🎮 <a href="https://github.com/MrBabker/-Mbabker-Game-portfolio">Game Portfolio</a></h3>
+      <p>My video game developer portfolio</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/MrBabker/-Mbabker-Game-portfolio"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" /></a>
+      <br/><br/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br/>
+      <h3>📄 <a href="https://github.com/MrBabker/Mbabker_CV">Mbabker CV</a></h3>
+      <p>My interactive CV website</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/MrBabker/Mbabker_CV"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" /></a>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <br/>
+      <h3>🕹️ <a href="https://github.com/MrBabker/gameDot_net">gameDot_net</a></h3>
+      <p>A game project built with C#</p>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/MrBabker/gameDot_net"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" /></a>
+      <br/><br/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br/>
+      <h3>🎲 <a href="https://github.com/MrBabker/NizalGame">NizalGame</a></h3>
+      <p>A game project</p>
+      <img src="https://img.shields.io/badge/Game-7B2FF7?style=flat-square&logo=gamepad&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/MrBabker/NizalGame"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" /></a>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <br/>
+      <h3>🛵 <a href="https://github.com/MrBabker/Tawseel-Nest-">Tawseel Nest</a></h3>
+      <p>Delivery backend built with NestJS</p>
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/MrBabker/Tawseel-Nest-"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" /></a>
+      <br/><br/>
+    </td>
+    <td width="50%" align="center" valign="middle"><br/><h3>✨ More coming soon</h3><p>Always building something new</p><br/></td>
+  </tr>
+</table>
+
+</div>
 
 <div align="center">
 
