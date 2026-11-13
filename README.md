@@ -48,8 +48,10 @@ public class Developer
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MrBabker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBabker&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="180" src="https://raw.githubusercontent.com/MrBabker/MrBabker/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+<img height="180" src="https://raw.githubusercontent.com/MrBabker/MrBabker/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+<img height="180" src="https://raw.githubusercontent.com/MrBabker/MrBabker/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+<img height="180" src="https://raw.githubusercontent.com/MrBabker/MrBabker/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
 
 <img src="https://streak-stats.demolab.com/?user=MrBabker&theme=tokyonight&hide_border=true&background=0D1117" />
 
@@ -63,32 +65,15 @@ public class Developer
 
 </div>
 
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrBabker&bg_color=0d1117&color=00B4FF&line=7B2FF7&point=FF2E93&area=true&area_color=7B2FF7&hide_border=true" width="100%" />
-
-</div>
-
 ## 🚀 Featured Quests
 
-<div align="center">
-
-<a href="https://github.com/MrBabker/-Mbabker-Game-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MrBabker&repo=-Mbabker-Game-portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/MrBabker/gameDot_net"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MrBabker&repo=gameDot_net&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/MrBabker/NizalGame"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MrBabker&repo=NizalGame&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/MrBabker/Tawseel-Nest-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MrBabker&repo=Tawseel-Nest-&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
-
-</div>
-
-## 🏆 Achievements Unlocked
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MrBabker&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
-
-</div>
+| Project | Stack | What it is |
+|---|---|---|
+| [🎮 Game Portfolio](https://github.com/MrBabker/-Mbabker-Game-portfolio) | ![TS](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) | My video game portfolio site |
+| [📄 Mbabker_CV](https://github.com/MrBabker/Mbabker_CV) | ![TS](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) | My interactive CV |
+| [🕹️ gameDot_net](https://github.com/MrBabker/gameDot_net) | ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white) | Game project |
+| [🎲 NizalGame](https://github.com/MrBabker/NizalGame) | ![Game](https://img.shields.io/badge/Game-7B2FF7) | Game project |
+| [🛵 Tawseel-Nest](https://github.com/MrBabker/Tawseel-Nest-) | ![TS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) | Delivery backend |
 
 <div align="center">
 
